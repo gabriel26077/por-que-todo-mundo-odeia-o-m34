@@ -1,0 +1,13 @@
+[project]
+name = "por-que-todo-mundo-odeia-o-m34"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "folium>=0.20.0",
+    "jupyter>=1.1.1",
+    "matplotlib>=3.10.9",
+    "networkx>=3.6.1",
+    "osmnx>=2.1.0",
+]
