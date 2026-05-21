@@ -16,8 +16,8 @@ Este projeto nasceu dessa frustração diária. Usando dados reais do OpenStreet
 
 ## 👥 Equipe
 * Gabriel Sebastião do Nascimento Neto
-* Ícaro [Sobrenome]
-* Sara Gabrielly [Sobrenome]
+* Ícaro Bruno Silbe Cortês
+* Sara Gabrielly do Nascimento Silva
 
 **Disciplina:** Estrutura de Dados II (DCA3702)
 
