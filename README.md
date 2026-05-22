@@ -12,10 +12,10 @@ Este projeto nasceu dessa frustração diária. Usando dados reais do OpenStreet
 
 ---
 
-## 👥 Equipe
-- Gabriel Sebastião do Nascimento Neto
-- Ícaro Bruno Silbe Cortês
-- Sara Gabrielly do Nascimento Silva
+## 👥 Equipe e suas atribuição
+- Gabriel Sebastião do Nascimento Neto - Elaboração da problematica, juntamente com o levantamento dos dados e start do projeto.
+- Ícaro Bruno Silbe Cortês - Exploração e ánalise da viabilidade dos dados, juntamente com a estrategia de colapso dos nós; Inicio da plotagem dos grafos.
+- Sara Gabrielly do Nascimento Silva - Implementação dos grafos e ánalise dos resultados.
 
 **Disciplina:** Estrutura de Dados II (DCA3702)
 
