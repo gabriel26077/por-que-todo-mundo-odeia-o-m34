@@ -25,7 +25,7 @@ Este projeto nasceu dessa frustração diária. Usando dados reais do OpenStreet
 - **Justificativa:** esse recorte é suficiente para capturar o deslocamento diário de áreas residenciais densas até os polos universitários e comerciais de Natal. Ao mesmo tempo, ele evita uma área grande demais e preserva justamente o conjunto de avenidas onde a dependência da BR-101 se torna mais visível.
 
 ## 🎥 Apresentação do Projeto
-[![Assista no Loom](https://img.shields.io/badge/Loom-Assistir_Apresentação-625df5?style=for-the-badge&logo=loom)](INSERIR_LINK_DO_LOOM_AQUI)
+[![Assista no Loom](https://img.shields.io/badge/Loom-Assistir_Apresentação-625df5?style=for-the-badge&logo=loom)](https://www.loom.com/share/ab512dc3edc94a8b89ddebc7255da7fd)
 *(Duração: ~15 minutos. Apresentação da extração, métricas, visualizações no Gephi e conclusões).*
 
 ---
