@@ -34,7 +34,6 @@ ENV/
 # Data and Graphs
 *.graphml
 *.gephi
-data/
 
 # IDEs
 .vscode/
